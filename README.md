@@ -1,4 +1,4 @@
-** TRADUÇAO FEITA AUTOMATICA **
+`** TRADUÇAO FEITA AUTOMATICA **`
 
 Este projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app).
 
